@@ -7,7 +7,6 @@ Hello, I'm Jay Mar (Heru). Aspiring programmer and enthusiastic learner.
 - 🔭 I’m currently working on learning new programming languages and improving my coding skills.
 - 🌱 I’m currently learning web development and data structures.
 - 👯 I’m looking to collaborate on beginner-friendly projects.
-- 💬 Ask me about basic programming concepts.
 - ⚡ Fun fact: I enjoy solving puzzles and playing video games in my free time.
 
 ## 🛠️ My Skills
