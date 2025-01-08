@@ -25,7 +25,9 @@ Hello, I'm Jay Mar (Heru). Aspiring programmer and enthusiastic learner.
   - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Dashboard
-![Metrics](https://metrics.lecoq.io/meroedev?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0&config.timezone=UTC)
+## 📊 GitHub Stats
+![Meroedev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meroedev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meroedev&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meroedev&theme=radical)
 
 Thank you for visiting my profile! 😊
