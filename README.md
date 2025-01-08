@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## 👋 Hi there!
-Hello, I'm Jay Mar (Heru). Aspiring programmer and enthusiastic learner.
+Hi, I'm Jay Mar (Heru) Programming newbie & tech enthusiast.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on learning new programming languages and improving my coding skills.
