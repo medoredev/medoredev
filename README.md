@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Hello there 🙂
 
 ## 👋 Hi there!
 Hi, I'm Jay Mar (Heru) Programming newbie & tech enthusiast.
