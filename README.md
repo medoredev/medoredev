@@ -44,5 +44,3 @@ Hi, I'm Jay Mar (Heru) Programming newbie & tech enthusiast.
     <img src="https://komarev.com/ghpvc/?username=medoredev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" style="margin: 5px;" />
   </a>
 </p>
-
-Thank you for visiting my profile! 😊
