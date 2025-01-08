@@ -27,14 +27,16 @@ Hello, I'm Jay Mar, also known as Heru. I'm not a professional programmer; I'm j
   - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Meroedev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meroedev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meroedev&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meroedev&theme=radical)
+![Total Contributions](https://github-contributor-stats.vercel.app/api?username=meroedev&theme=radical)
 
 ## GitHub Information
-- **Repository:** [your-username/your-repo](https://github.com/your-username/your-repo)
-- **Issues:** [GitHub Issues](https://github.com/your-username/your-repo/issues)
-- **Pull Requests:** [GitHub Pull Requests](https://github.com/your-username/your-repo/pulls)
-- **Actions:** [GitHub Actions](https://github.com/your-username/your-repo/actions)
+- **Repository:** [meroedev/your-repo](https://github.com/meroedev/your-repo)
+- **Issues:** [GitHub Issues](https://github.com/meroedev/your-repo/issues)
+- **Pull Requests:** [GitHub Pull Requests](https://github.com/meroedev/your-repo/pulls)
+- **Actions:** [GitHub Actions](https://github.com/meroedev/your-repo/actions)
 
 ## 📫 Contact Me
 Feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
