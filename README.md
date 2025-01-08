@@ -8,7 +8,6 @@ Hello, I'm Jay Mar, also known as Heru. I'm not a professional programmer; I'm j
 - 🌱 I’m currently learning web development and data structures.
 - 👯 I’m looking to collaborate on beginner-friendly projects.
 - 💬 Ask me about basic programming concepts and grammar corrections.
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com).
 - ⚡ Fun fact: I enjoy solving puzzles and playing video games in my free time.
 
 ## 🛠️ My Skills
@@ -31,14 +30,5 @@ Hello, I'm Jay Mar, also known as Heru. I'm not a professional programmer; I'm j
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meroedev&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meroedev&theme=radical)
 ![Total Contributions](https://github-contributor-stats.vercel.app/api?username=meroedev&theme=radical)
-
-## GitHub Information
-- **Repository:** [meroedev/your-repo](https://github.com/meroedev/your-repo)
-- **Issues:** [GitHub Issues](https://github.com/meroedev/your-repo/issues)
-- **Pull Requests:** [GitHub Pull Requests](https://github.com/meroedev/your-repo/pulls)
-- **Actions:** [GitHub Actions](https://github.com/meroedev/your-repo/actions)
-
-## 📫 Contact Me
-Feel free to reach out to me via email at [your-email@example.com](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/).
 
 Thank you for visiting my profile! 😊
