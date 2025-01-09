@@ -9,6 +9,10 @@ Hi, I'm Jay Mar (Heru) Programming newbie & tech enthusiast.
 - 👯 I’m looking to collaborate on beginner-friendly projects.
 - ⚡ Fun fact: I enjoy solving puzzles and playing video games in my free time.
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🛠️ My Skills
 - **Languages:**
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
