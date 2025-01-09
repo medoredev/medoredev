@@ -35,6 +35,18 @@ Hi, I'm Jay Mar (Heru) Programming newbie & tech enthusiast.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=medoredev&theme=radical" alt="medoredev's Most Commit Language" style="border-radius: 10px; margin: 10px;"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=medoredev&theme=radical" alt="medoredev's GitHub Stats" style="border-radius: 10px; margin: 10px;"/>
 </p>
+<div align="center">
+  <table style="border-spacing: 1px;">
+    <tr>
+      <td width="366" style="padding: 1px; border: 1px solid #ddd;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=medoredev&locale=en&hide_title=false&layout=compact&card_width=391&langs_count=5&theme=dracula&hide_border=false" height="140" width="100%" alt="languages graph" />
+      </td>
+      <td width="368" style="padding: 1px; border: 1px solid #ddd;">
+        <img src="https://github-readme-stats.vercel.app/api?username=medoredev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="140" width="100%" alt="stats graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🔗 GitHub Info
 <p align="center">
